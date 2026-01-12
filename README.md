@@ -14,7 +14,7 @@ pinned: false
 This project demonstrates how to use **Machine Learning (Random Forest)** and **Generative AI (Grok)** to detect and explain network attacks (specifically DDoS).
 
 ## Dataset Link:
-https://huggingface.co/spaces/Nandini25/networkintrusiondetection/blob/main/Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv
+[https://huggingface.co/spaces/Nandini25/networkintrusiondetection/blob/main/Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv](https://huggingface.co/spaces/Nandini25/NetGuard/blob/main/Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv)
 ## Live Project Link:
 https://huggingface.co/spaces/Nandini25/NetGuard
 
